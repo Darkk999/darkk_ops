@@ -8,5 +8,3 @@ Features:
 
 Required:
 Nothing, This is standalone
-
-Discord: https://discord.gg/tyz4bqv6ta
